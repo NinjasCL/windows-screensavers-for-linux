@@ -86,7 +86,6 @@ Add the following code to the list of the available screensavers
 				  /usr/local/src/windows95/inside.sh	      \
 				  --root				    \n\
 - GL: 	      "Win98 Leonardo" 	/usr/local/src/windows95/leonardo.sh --root \n\
-- GL: 		 "Win98 Orbit" 	/usr/local/src/windows95/orbit.sh --root    \n\
 - GL: 		 "Win98 Space" 	/usr/local/src/windows95/space.sh --root    \n\
 - GL: 		"Win98 Sports" 	/usr/local/src/windows95/sports.sh --root   \n\
 - GL: 		"Win98 Travel" 	/usr/local/src/windows95/travel.sh --root   \n\
@@ -100,7 +99,35 @@ Save the file
 7. Open `xscreensaver-settings`
 
 Open again and select your preferred screen saver.
-<p>Rooster Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></p>
+
+## List of ScreenSavers
+
+* Windows 95:
+	- 3D Maze
+	- 3D Pipes
+	- Flying Through Space
+	- Orbit
+	- Curves
+
+* Windows 98:
+	- Underwater
+	- Jungle
+	- Mystery
+	- Mystify Your Mind
+	- Baseball
+	- Dangerous Creatures
+	- The Golden Era
+	- Inside Your Computer
+	- Leonardo da Vinci
+	- Space
+	- Sports
+	- Travel
+
+* Windows XP:
+	- Flag
+
+* Windows 7:
+	- Mystify
 
 ## Tips
 
